@@ -1,0 +1,27 @@
+{
+	"Product": {
+		"Name": "MongoDB.OData",
+		"Version": {
+			"major": 0,
+			"minor": 1,
+			"release": 3
+		}
+	},
+	"NugetPackage": {
+		"Id": "MongoDB.OData",
+		"Title": "MongoDB.OData",
+		"Folders": [
+	        {
+	            "Path": "**\\*.*",
+	            "Folder": "lib\\net45"
+	        },
+	        {
+	            "Path": "*.*",
+	            "Folder": "lib\\net45"
+	        }
+		],
+		"NugetGalleries": [
+			"DEV"
+		]
+	}
+}
