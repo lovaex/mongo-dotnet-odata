@@ -10,6 +10,7 @@
 	"NugetPackage": {
 		"Id": "MongoDB.OData",
 		"Title": "MongoDB.OData",
+		"Description": "MongoDB .NET OData",
 		"Folders": [
 	        {
 	            "Path": "**\\*.*",
